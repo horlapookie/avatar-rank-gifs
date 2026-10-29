@@ -1,0 +1,554 @@
+[
+  {
+    "file": "rookie-I.gif",
+    "kind": "rank",
+    "rank": "rookie-I",
+    "stars": 1,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-II.gif",
+    "kind": "rank",
+    "rank": "rookie-II",
+    "stars": 2,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-I-to-rookie-II.gif",
+    "kind": "promotion",
+    "rank": "rookie-II",
+    "stars": 2,
+    "from": "rookie-I",
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-III.gif",
+    "kind": "rank",
+    "rank": "rookie-III",
+    "stars": 3,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-II-to-rookie-III.gif",
+    "kind": "promotion",
+    "rank": "rookie-III",
+    "stars": 3,
+    "from": "rookie-II",
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-IV.gif",
+    "kind": "rank",
+    "rank": "rookie-IV",
+    "stars": 4,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-III-to-rookie-IV.gif",
+    "kind": "promotion",
+    "rank": "rookie-IV",
+    "stars": 4,
+    "from": "rookie-III",
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-V.gif",
+    "kind": "rank",
+    "rank": "rookie-V",
+    "stars": 5,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-IV-to-rookie-V.gif",
+    "kind": "promotion",
+    "rank": "rookie-V",
+    "stars": 5,
+    "from": "rookie-IV",
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-I.gif",
+    "kind": "rank",
+    "rank": "veteran-I",
+    "stars": 1,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "rookie-V-to-veteran-I.gif",
+    "kind": "promotion",
+    "rank": "veteran-I",
+    "stars": 1,
+    "from": "rookie-V",
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-II.gif",
+    "kind": "rank",
+    "rank": "veteran-II",
+    "stars": 2,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-I-to-veteran-II.gif",
+    "kind": "promotion",
+    "rank": "veteran-II",
+    "stars": 2,
+    "from": "veteran-I",
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-III.gif",
+    "kind": "rank",
+    "rank": "veteran-III",
+    "stars": 3,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-II-to-veteran-III.gif",
+    "kind": "promotion",
+    "rank": "veteran-III",
+    "stars": 3,
+    "from": "veteran-II",
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-IV.gif",
+    "kind": "rank",
+    "rank": "veteran-IV",
+    "stars": 4,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-III-to-veteran-IV.gif",
+    "kind": "promotion",
+    "rank": "veteran-IV",
+    "stars": 4,
+    "from": "veteran-III",
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-V.gif",
+    "kind": "rank",
+    "rank": "veteran-V",
+    "stars": 5,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-IV-to-veteran-V.gif",
+    "kind": "promotion",
+    "rank": "veteran-V",
+    "stars": 5,
+    "from": "veteran-IV",
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-I.gif",
+    "kind": "rank",
+    "rank": "elite-I",
+    "stars": 1,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "veteran-V-to-elite-I.gif",
+    "kind": "promotion",
+    "rank": "elite-I",
+    "stars": 1,
+    "from": "veteran-V",
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-II.gif",
+    "kind": "rank",
+    "rank": "elite-II",
+    "stars": 2,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-I-to-elite-II.gif",
+    "kind": "promotion",
+    "rank": "elite-II",
+    "stars": 2,
+    "from": "elite-I",
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-III.gif",
+    "kind": "rank",
+    "rank": "elite-III",
+    "stars": 3,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-II-to-elite-III.gif",
+    "kind": "promotion",
+    "rank": "elite-III",
+    "stars": 3,
+    "from": "elite-II",
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-IV.gif",
+    "kind": "rank",
+    "rank": "elite-IV",
+    "stars": 4,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-III-to-elite-IV.gif",
+    "kind": "promotion",
+    "rank": "elite-IV",
+    "stars": 4,
+    "from": "elite-III",
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-V.gif",
+    "kind": "rank",
+    "rank": "elite-V",
+    "stars": 5,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-IV-to-elite-V.gif",
+    "kind": "promotion",
+    "rank": "elite-V",
+    "stars": 5,
+    "from": "elite-IV",
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-I.gif",
+    "kind": "rank",
+    "rank": "pro-I",
+    "stars": 1,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "elite-V-to-pro-I.gif",
+    "kind": "promotion",
+    "rank": "pro-I",
+    "stars": 1,
+    "from": "elite-V",
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-II.gif",
+    "kind": "rank",
+    "rank": "pro-II",
+    "stars": 2,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-I-to-pro-II.gif",
+    "kind": "promotion",
+    "rank": "pro-II",
+    "stars": 2,
+    "from": "pro-I",
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-III.gif",
+    "kind": "rank",
+    "rank": "pro-III",
+    "stars": 3,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-II-to-pro-III.gif",
+    "kind": "promotion",
+    "rank": "pro-III",
+    "stars": 3,
+    "from": "pro-II",
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-IV.gif",
+    "kind": "rank",
+    "rank": "pro-IV",
+    "stars": 4,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-III-to-pro-IV.gif",
+    "kind": "promotion",
+    "rank": "pro-IV",
+    "stars": 4,
+    "from": "pro-III",
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-V.gif",
+    "kind": "rank",
+    "rank": "pro-V",
+    "stars": 5,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-IV-to-pro-V.gif",
+    "kind": "promotion",
+    "rank": "pro-V",
+    "stars": 5,
+    "from": "pro-IV",
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-I.gif",
+    "kind": "rank",
+    "rank": "master-I",
+    "stars": 1,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "pro-V-to-master-I.gif",
+    "kind": "promotion",
+    "rank": "master-I",
+    "stars": 1,
+    "from": "pro-V",
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-II.gif",
+    "kind": "rank",
+    "rank": "master-II",
+    "stars": 2,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-I-to-master-II.gif",
+    "kind": "promotion",
+    "rank": "master-II",
+    "stars": 2,
+    "from": "master-I",
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-III.gif",
+    "kind": "rank",
+    "rank": "master-III",
+    "stars": 3,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-II-to-master-III.gif",
+    "kind": "promotion",
+    "rank": "master-III",
+    "stars": 3,
+    "from": "master-II",
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-IV.gif",
+    "kind": "rank",
+    "rank": "master-IV",
+    "stars": 4,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-III-to-master-IV.gif",
+    "kind": "promotion",
+    "rank": "master-IV",
+    "stars": 4,
+    "from": "master-III",
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-V.gif",
+    "kind": "rank",
+    "rank": "master-V",
+    "stars": 5,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-IV-to-master-V.gif",
+    "kind": "promotion",
+    "rank": "master-V",
+    "stars": 5,
+    "from": "master-IV",
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-I.gif",
+    "kind": "rank",
+    "rank": "grandmaster-I",
+    "stars": 1,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "master-V-to-grandmaster-I.gif",
+    "kind": "promotion",
+    "rank": "grandmaster-I",
+    "stars": 1,
+    "from": "master-V",
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-II.gif",
+    "kind": "rank",
+    "rank": "grandmaster-II",
+    "stars": 2,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-I-to-grandmaster-II.gif",
+    "kind": "promotion",
+    "rank": "grandmaster-II",
+    "stars": 2,
+    "from": "grandmaster-I",
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-III.gif",
+    "kind": "rank",
+    "rank": "grandmaster-III",
+    "stars": 3,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-II-to-grandmaster-III.gif",
+    "kind": "promotion",
+    "rank": "grandmaster-III",
+    "stars": 3,
+    "from": "grandmaster-II",
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-IV.gif",
+    "kind": "rank",
+    "rank": "grandmaster-IV",
+    "stars": 4,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-III-to-grandmaster-IV.gif",
+    "kind": "promotion",
+    "rank": "grandmaster-IV",
+    "stars": 4,
+    "from": "grandmaster-III",
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-V.gif",
+    "kind": "rank",
+    "rank": "grandmaster-V",
+    "stars": 5,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-IV-to-grandmaster-V.gif",
+    "kind": "promotion",
+    "rank": "grandmaster-V",
+    "stars": 5,
+    "from": "grandmaster-IV",
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-I.gif",
+    "kind": "rank",
+    "rank": "legendary-I",
+    "stars": 1,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "grandmaster-V-to-legendary-I.gif",
+    "kind": "promotion",
+    "rank": "legendary-I",
+    "stars": 1,
+    "from": "grandmaster-V",
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-II.gif",
+    "kind": "rank",
+    "rank": "legendary-II",
+    "stars": 2,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-I-to-legendary-II.gif",
+    "kind": "promotion",
+    "rank": "legendary-II",
+    "stars": 2,
+    "from": "legendary-I",
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-III.gif",
+    "kind": "rank",
+    "rank": "legendary-III",
+    "stars": 3,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-II-to-legendary-III.gif",
+    "kind": "promotion",
+    "rank": "legendary-III",
+    "stars": 3,
+    "from": "legendary-II",
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-IV.gif",
+    "kind": "rank",
+    "rank": "legendary-IV",
+    "stars": 4,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-III-to-legendary-IV.gif",
+    "kind": "promotion",
+    "rank": "legendary-IV",
+    "stars": 4,
+    "from": "legendary-III",
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-V.gif",
+    "kind": "rank",
+    "rank": "legendary-V",
+    "stars": 5,
+    "from": null,
+    "duration_ms": 5000
+  },
+  {
+    "file": "legendary-IV-to-legendary-V.gif",
+    "kind": "promotion",
+    "rank": "legendary-V",
+    "stars": 5,
+    "from": "legendary-IV",
+    "duration_ms": 5000
+  }
+]
